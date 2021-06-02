@@ -1,0 +1,14 @@
+.card {
+  display: none;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: red;
+}
+img {
+  height: 300px;
+  width: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+} 
